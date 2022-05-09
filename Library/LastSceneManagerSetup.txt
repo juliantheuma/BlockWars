@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MoralisWeb3ApiSdk/Example/DemoScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
